@@ -2,9 +2,17 @@
 
 
 
-This project calculates Simple Interest using the formula:
+This project is a simple interest calculator created as part of the Git and GitHub Final Project.
 
 
+
+\## Description
+
+The calculator computes simple interest based on user input.
+
+
+
+\## Formula
 
 Simple Interest = (Principal × Rate × Time) / 100
 
@@ -12,21 +20,17 @@ Simple Interest = (Principal × Rate × Time) / 100
 
 \## Inputs
 
-\- Principal
+\- Principal amount
 
-\- Rate of Interest
+\- Rate of interest
 
-\- Time Period
+\- Time period
 
 
 
 \## Output
 
-\- Simple Interest value
-
-
-
-This project is created for learning Git and GitHub.
+\- Calculated simple interest value
 
 
 
